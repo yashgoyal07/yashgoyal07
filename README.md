@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Flask, MySQL**
 
-- 📝 I regularly write articles on [yashgoyal07.github.io](https://yashgoyal07.github.io/)
+- 📝 I occasionally write articles on [yashgoyal07.github.io](https://yashgoyal07.github.io/)
 
 - 📫 How to reach me **yashgoyalcs@gmail.com**
 
